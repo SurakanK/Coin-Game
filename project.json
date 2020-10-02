@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "Coin_game",
+  "id": "fc1854b1-2c22-4764-966c-16b8ffbbb5aa",
+  "version": "2.4.2",
+  "isNew": false
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b6f3827c-08b7-4784-987a-2a53449c63d5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1000,
+  "height": 533,
+  "platformSettings": {},
+  "subMetas": {
+    "kisspng-banner-gold-illustration-hd-gold-frame-5aa25efa4f0825.4861345415205905863237": {
+      "ver": "1.0.4",
+      "uuid": "9540d7f2-b0ec-4235-b514-3262f4130cf2",
+      "rawTextureUuid": "b6f3827c-08b7-4784-987a-2a53449c63d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": 0,
+      "trimX": 60,
+      "trimY": 75,
+      "width": 886,
+      "height": 383,
+      "rawWidth": 1000,
+      "rawHeight": 533,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
